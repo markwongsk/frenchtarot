@@ -47,7 +47,6 @@ These bids are in general riskier and require more things to fall in place, but 
   * As leader of first trick, probably lead a mid Trump (8-14) to try to flush out the high ones (and hopefully the 21). This also gains information on the potential Trump distribution among players, especially if a player undertrumps a mid-trump. Hopefully said player isn't your partner. The showing of a Joker on this trick also indicates that the player probably doesn't have the 1 or the 21, which is additional useful information.
   * Reason for leading a mid Trump is that low Trumps can be used on the void and singleton suit, so it is more useful to flush out the higher Trumps with a mid Trump.
   * If not the leader of the first trick, you will probably win the first trick (you have Kings in two suits, a void in the non-partner suit, and the partner suit cannot be led). If your partner leads his/her King, smack him/her if he/she does not follow-up with the 21.
-  * If you got a Bout in the dog.
 
 #### 20 Bids
 1. One Bout, two Kings
