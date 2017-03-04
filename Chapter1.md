@@ -39,7 +39,7 @@ Five player games are usually the ones with highest variance and volatility, due
 1. Presence of seven Trumps (including three Bouts) and two Kings, and a natural void.
 
 ### Advanced Opener Bids
-These bids are in general riskier and require more things to fall in place, but in general have a positive payout if executed correctly over a large number of games.
+These bids are in general riskier and require more things to fall in place, but have a positive payout if executed correctly over a large number of games.
 #### 10 Bids
 1. Eight Trumps with no Bouts, and two Kings.
   * Ideally, be able to void in the non-partner suit, and have a singleton in one of the King suits.
