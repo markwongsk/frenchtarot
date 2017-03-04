@@ -38,7 +38,8 @@ Five player games are usually the ones with highest variance and volatility, due
 #### 160 Bids
 1. Presence of seven Trumps (including three Bouts) and two Kings, and a natural void.
 
-### Advanced Opener Bids (Calculated Aggression)
+### Advanced Opener Bids
+These bids are in general riskier and require more things to fall in place, but in general have a positive payout if executed correctly over a large number of games.
 #### 10 Bids
 1. Eight Trumps with no Bouts, and two Kings.
   * Ideally, be able to void in the non-partner suit, and have a singleton in one of the King suits.
@@ -50,7 +51,7 @@ Five player games are usually the ones with highest variance and volatility, due
 
 #### 20 Bids
 1. One Bout, two Kings
-  * This is the (in)famous Russian Twenty bid/
+  * This is the (in)famous Russian Twenty bid
   * This is not a terminal bid.
   * Ideally opened as the first or second player, or on top of a 10 bid.
   * If posessing the 1, a way to defend it in case one does not get called. Otherwise, do not bid it. A viable defense is the possession of five or more trumps, or the presence of a natural void.
